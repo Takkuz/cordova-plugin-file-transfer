@@ -25,6 +25,8 @@ description: Upload and download files.
 |:-:|:-:|
 |[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-file-transfer?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-file-transfer)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-file-transfer.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-file-transfer)|
 
+Fork of original cordova-plugin-file-transfer to be working on cordova-ios 6.x based on [this solution](https://github.com/apache/cordova-plugin-file-transfer/issues/258#issuecomment-639355127).
+
 # cordova-plugin-file-transfer
 
 This plugin allows you to upload and download files.
